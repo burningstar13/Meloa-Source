@@ -1,0 +1,55 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3474.389,
+    "date": "2026-09-08T20:29:24",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "apres",
+    "preset": "default",
+    "scenario": "soak",
+    "width": 1280
+  },
+  "soak": [
+    {
+      "cycle": 0,
+      "mem_mb": 147.807715415955,
+      "nodes": 1174.0,
+      "objects": 5113.0,
+      "orphans": 3.0,
+      "vram_mb": 287.55859375
+    },
+    {
+      "cycle": 1,
+      "mem_mb": 147.745520591736,
+      "nodes": 1173.0,
+      "objects": 5111.0,
+      "orphans": 3.0,
+      "vram_mb": 283.30859375
+    },
+    {
+      "cycle": 2,
+      "mem_mb": 147.815333366394,
+      "nodes": 1174.0,
+      "objects": 5113.0,
+      "orphans": 3.0,
+      "vram_mb": 288.05859375
+    },
+    {
+      "cycle": 3,
+      "mem_mb": 147.801283836365,
+      "nodes": 1173.0,
+      "objects": 5111.0,
+      "orphans": 3.0,
+      "vram_mb": 287.30859375
+    },
+    {
+      "cycle": 4,
+      "mem_mb": 147.780325889587,
+      "nodes": 1172.0,
+      "objects": 5103.0,
+      "orphans": 3.0,
+      "vram_mb": 286.55859375
+    }
+  ]
+}

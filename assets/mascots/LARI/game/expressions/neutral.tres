@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://cf3trsuhd01oq"]
+
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+pupille_g_tex = null
+pupille_d_tex = null
+cil_g_tex = null
+cil_d_tex = null
+cil_bas_g_tex = null
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = null
+sourcil_d_tex = null
+mouth_tex = null
+nose_tex = null
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

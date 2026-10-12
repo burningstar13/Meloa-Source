@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" uid="uid://dnyitnfrlethw" path="res://scripts/mascot.gd" id="1"]
+
+[node name="Mascot" type="Node2D" unique_id=324420273]
+script = ExtResource("1")

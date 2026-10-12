@@ -1,0 +1,56 @@
+[gd_resource type="Resource" script_class="MascotData" format=3 uid="uid://cue7ve5t1r1f"]
+
+[ext_resource type="Texture2D" uid="uid://spdn0tl6ib0r" path="res://assets/mascots/LARI/game/parts/cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bj0o4yxpp0g1j" path="res://assets/mascots/LARI/game/parts/cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c1dr0uajjgrdt" path="res://assets/mascots/LARI/game/parts/cil_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bhx2a1s8j5nwj" path="res://assets/mascots/LARI/game/parts/cil_g.png" id="4"]
+[ext_resource type="Resource" uid="uid://cf3trsuhd01oq" path="res://assets/mascots/LARI/game/expressions/neutral.tres" id="5"]
+[ext_resource type="Resource" uid="uid://d1ao1uqlj6gt3" path="res://assets/mascots/LARI/game/expressions/happy.tres" id="6"]
+[ext_resource type="Resource" uid="uid://lcoeba2un6dm" path="res://assets/mascots/LARI/game/expressions/excited.tres" id="7"]
+[ext_resource type="Resource" uid="uid://lygxo078kdvf" path="res://assets/mascots/LARI/game/expressions/sad.tres" id="8"]
+[ext_resource type="Resource" uid="uid://bny63q6ac0a1f" path="res://assets/mascots/LARI/game/expressions/surprised.tres" id="9"]
+[ext_resource type="Resource" uid="uid://3ocw2wgfnad2" path="res://assets/mascots/LARI/game/expressions/scared.tres" id="10"]
+[ext_resource type="Resource" uid="uid://c4k5r7j0d5tij" path="res://assets/mascots/LARI/game/expressions/annoyed.tres" id="11"]
+[ext_resource type="Resource" uid="uid://cx8kjja588sx2" path="res://assets/mascots/LARI/game/expressions/tired.tres" id="12"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/angry.tres" id="13"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/chipie.tres" id="14"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/hurt.tres" id="15"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/idol.tres" id="16"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/indi.tres" id="17"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/uwu.tres" id="18"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/smile.tres" id="19"]
+[ext_resource type="Resource" path="res://assets/mascots/LARI/game/expressions/blank.tres" id="20"]
+[ext_resource type="Texture2D" uid="uid://b6pmowl7i8aix" path="res://assets/mascots/LARI/game/parts/head.png" id="21"]
+[ext_resource type="Texture2D" uid="uid://dyigv10dxyedh" path="res://assets/mascots/LARI/game/parts/mouth_neutral.png" id="22"]
+[ext_resource type="Texture2D" uid="uid://cvckshmixd1y3" path="res://assets/mascots/LARI/game/parts/nose_neutral.png" id="23"]
+[ext_resource type="Texture2D" uid="uid://dfcpgbt4fxcpl" path="res://assets/mascots/LARI/game/parts/pupille_d.png" id="24"]
+[ext_resource type="Texture2D" uid="uid://bofj70unet1qm" path="res://assets/mascots/LARI/game/parts/pupille_g.png" id="25"]
+[ext_resource type="Script" uid="uid://c8tnci2e2e6f6" path="res://scripts/mascot_data.gd" id="26"]
+[ext_resource type="Texture2D" uid="uid://usdmpl3kviqk" path="res://assets/mascots/LARI/game/parts/sourcil_d.png" id="27"]
+[ext_resource type="Texture2D" uid="uid://cxlhe08nmkl2e" path="res://assets/mascots/LARI/game/parts/sourcil_g.png" id="28"]
+
+[resource]
+script = ExtResource("26")
+character_id = &"lari"
+display_name = "Lari"
+head_tex = ExtResource("21")
+pupille_g_tex = ExtResource("25")
+pupille_d_tex = ExtResource("24")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+sourcil_g_tex = ExtResource("28")
+sourcil_d_tex = ExtResource("27")
+mouth_tex = ExtResource("22")
+nose_tex = ExtResource("23")
+accessory_tex = null
+canvas_anchor = Vector2(500, 521)
+eye_center_g = Vector2(405, 563)
+eye_center_d = Vector2(594, 566)
+sourcil_center_g = Vector2(400, 463)
+sourcil_center_d = Vector2(599, 459)
+art_scale = 0.1
+expressions = [ExtResource("5"), ExtResource("6"), ExtResource("7"), ExtResource("8"), ExtResource("9"), ExtResource("10"), ExtResource("11"), ExtResource("12"), ExtResource("13"), ExtResource("14"), ExtResource("15"), ExtResource("16"), ExtResource("17"), ExtResource("18"), ExtResource("19"), ExtResource("20")]

@@ -1,0 +1,39 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://dea6yc0bflbvv" path="res://assets/mascots/KOHA/game/parts/angry_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dvfa1gfuxnorj" path="res://assets/mascots/KOHA/game/parts/angry_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://cfix1j45o5gwe" path="res://assets/mascots/KOHA/game/parts/angry_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://ogvqgclcwy7d" path="res://assets/mascots/KOHA/game/parts/angry_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://byx0vl1mhn6s0" path="res://assets/mascots/KOHA/game/parts/angry_glow.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://86b3ni4yd0ej" path="res://assets/mascots/KOHA/game/parts/angry_veine.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://6m23jhcbxmo3" path="res://assets/mascots/KOHA/game/parts/angry_mouth.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://upt43r8kjnul" path="res://assets/mascots/KOHA/game/parts/angry_nose.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://drvvoiiprhnhy" path="res://assets/mascots/KOHA/game/parts/angry_paupiere_d.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://tps8pt8anffu" path="res://assets/mascots/KOHA/game/parts/angry_paupiere_g.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://dqwebk1vuy7qk" path="res://assets/mascots/KOHA/game/parts/angry_pupille_d.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://b5yawj0oyjyp5" path="res://assets/mascots/KOHA/game/parts/angry_pupille_g.png" id="12"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="13"]
+[ext_resource type="Texture2D" uid="uid://cu8a1uel2ngk7" path="res://assets/mascots/KOHA/game/parts/angry_sourcil_d.png" id="14"]
+[ext_resource type="Texture2D" uid="uid://dhyeak7w0hapr" path="res://assets/mascots/KOHA/game/parts/angry_sourcil_g.png" id="15"]
+
+[resource]
+script = ExtResource("13")
+id = &"angry"
+pupille_g_tex = ExtResource("12")
+pupille_d_tex = ExtResource("11")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = ExtResource("10")
+paupiere_d_tex = ExtResource("9")
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("15")
+sourcil_d_tex = ExtResource("14")
+mouth_tex = ExtResource("7")
+nose_tex = ExtResource("8")
+accessory_tex = null
+blush_tex = null
+decos = [ExtResource("5"), ExtResource("6")]
+overlay_tex = null

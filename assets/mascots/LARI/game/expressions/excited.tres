@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://lcoeba2un6dm"]
+
+[ext_resource type="Texture2D" uid="uid://rxxjfuylq6f6" path="res://assets/mascots/LARI/game/parts/excited_blush.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dwy3mwvk0fyme" path="res://assets/mascots/LARI/game/parts/excited_eyes_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dbdjk3r8l86e4" path="res://assets/mascots/LARI/game/parts/excited_eyes_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://kgq2gl21fjxt" path="res://assets/mascots/LARI/game/parts/excited_mouth.png" id="4"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="5"]
+[ext_resource type="Texture2D" uid="uid://b57j5fg7j578q" path="res://assets/mascots/LARI/game/parts/excited_sourcil_d.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dbo1km7txriu7" path="res://assets/mascots/LARI/game/parts/excited_sourcil_g.png" id="7"]
+
+[resource]
+script = ExtResource("5")
+id = &"excited"
+pupille_g_tex = null
+pupille_d_tex = null
+cil_g_tex = null
+cil_d_tex = null
+cil_bas_g_tex = null
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = ExtResource("3")
+eyes_d_tex = ExtResource("2")
+sourcil_g_tex = ExtResource("7")
+sourcil_d_tex = ExtResource("6")
+mouth_tex = ExtResource("4")
+nose_tex = null
+accessory_tex = null
+hide_nose = true
+blush_tex = ExtResource("1")
+overlay_tex = null

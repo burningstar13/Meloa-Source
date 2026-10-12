@@ -1,0 +1,34 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://btop03eraxaxi" path="res://assets/mascots/AME/game/parts/malice_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bhc76557lnjxw" path="res://assets/mascots/AME/game/parts/malice_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://m8x1fau4k3c0" path="res://assets/mascots/AME/game/parts/malice_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://1r1dyfy7iw6b" path="res://assets/mascots/AME/game/parts/malice_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bs0ij4ipj36cw" path="res://assets/mascots/AME/game/parts/malice_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://c8f416dili1gd" path="res://assets/mascots/AME/game/parts/malice_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://sx670rd6dj7j" path="res://assets/mascots/AME/game/parts/malice_pupille_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://cvin0gdo0ss0c" path="res://assets/mascots/AME/game/parts/malice_pupille_g.png" id="8"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="9"]
+[ext_resource type="Texture2D" uid="uid://bkwj65kl4giv5" path="res://assets/mascots/AME/game/parts/malice_sourcil_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://b6e2xvb4qsh72" path="res://assets/mascots/AME/game/parts/malice_sourcil_g.png" id="11"]
+
+[resource]
+script = ExtResource("9")
+id = &"malice"
+pupille_g_tex = ExtResource("8")
+pupille_d_tex = ExtResource("7")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("11")
+sourcil_d_tex = ExtResource("10")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

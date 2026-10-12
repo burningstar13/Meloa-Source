@@ -1,0 +1,516 @@
+{
+	"canvas_h": 6000,
+	"canvas_w": 4000,
+	"parts": {
+		"chemise": {
+			"file": "chemise.png",
+			"h": 1143,
+			"w": 1006,
+			"x": 1474,
+			"y": 1016
+		},
+		"d_cil_bas": {
+			"file": "d_cil_bas.png",
+			"h": 71,
+			"w": 171,
+			"x": 2094,
+			"y": 693
+		},
+		"d_cil_haut": {
+			"file": "d_cil_haut.png",
+			"h": 63,
+			"w": 223,
+			"x": 2073,
+			"y": 645
+		},
+		"d_ear": {
+			"file": "d_ear.png",
+			"h": 169,
+			"w": 122,
+			"x": 2248,
+			"y": 647
+		},
+		"d_hand": {
+			"file": "d_hand.png",
+			"h": 495,
+			"w": 309,
+			"x": 2291,
+			"y": 1033
+		},
+		"d_manche": {
+			"file": "d_manche.png",
+			"h": 882,
+			"w": 396,
+			"x": 2331,
+			"y": 1182
+		},
+		"d_manche_front": {
+			"file": "d_manche_front.png",
+			"h": 766,
+			"w": 476,
+			"x": 2258,
+			"y": 1336
+		},
+		"d_pants": {
+			"file": "d_pants.png",
+			"h": 2943,
+			"w": 926,
+			"x": 1821,
+			"y": 2178
+		},
+		"d_paupiere": {
+			"file": "d_paupiere.png",
+			"h": 37,
+			"w": 82,
+			"x": 2112,
+			"y": 633
+		},
+		"d_pupille": {
+			"file": "d_pupille.png",
+			"h": 78,
+			"w": 105,
+			"x": 2110,
+			"y": 671
+		},
+		"d_shoe": {
+			"file": "d_shoe.png",
+			"h": 1693,
+			"w": 406,
+			"x": 2065,
+			"y": 4128
+		},
+		"d_side_meche": {
+			"file": "d_side_meche.png",
+			"h": 577,
+			"w": 173,
+			"x": 2187,
+			"y": 407
+		},
+		"d_sourcil": {
+			"file": "d_sourcil.png",
+			"h": 41,
+			"w": 163,
+			"x": 2104,
+			"y": 594
+		},
+		"ew_d_cil_bas": {
+			"file": "ew_d_cil_bas.png",
+			"h": 82,
+			"w": 171,
+			"x": 2096,
+			"y": 679
+		},
+		"ew_d_cil_haut": {
+			"file": "ew_d_cil_haut.png",
+			"h": 65,
+			"w": 223,
+			"x": 2076,
+			"y": 646
+		},
+		"ew_d_paupiere": {
+			"file": "ew_d_paupiere.png",
+			"h": 37,
+			"w": 82,
+			"x": 2112,
+			"y": 633
+		},
+		"ew_d_pupille": {
+			"file": "ew_d_pupille.png",
+			"h": 70,
+			"w": 89,
+			"x": 2113,
+			"y": 672
+		},
+		"ew_d_sourcil": {
+			"file": "ew_d_sourcil.png",
+			"h": 66,
+			"w": 236,
+			"x": 2045,
+			"y": 575
+		},
+		"ew_ew_line": {
+			"file": "ew_ew_line.png",
+			"h": 102,
+			"w": 82,
+			"x": 2006,
+			"y": 654
+		},
+		"ew_face_line": {
+			"file": "ew_face_line.png",
+			"h": 250,
+			"w": 375,
+			"x": 1834,
+			"y": 714
+		},
+		"ew_g_cil_bas": {
+			"file": "ew_g_cil_bas.png",
+			"h": 68,
+			"w": 197,
+			"x": 1779,
+			"y": 683
+		},
+		"ew_g_cil_haut": {
+			"file": "ew_g_cil_haut.png",
+			"h": 62,
+			"w": 252,
+			"x": 1756,
+			"y": 648
+		},
+		"ew_g_paupiere": {
+			"file": "ew_g_paupiere.png",
+			"h": 31,
+			"w": 99,
+			"x": 1867,
+			"y": 632
+		},
+		"ew_g_pupille": {
+			"file": "ew_g_pupille.png",
+			"h": 71,
+			"w": 89,
+			"x": 1838,
+			"y": 666
+		},
+		"ew_g_sourcil": {
+			"file": "ew_g_sourcil.png",
+			"h": 104,
+			"w": 241,
+			"x": 1786,
+			"y": 576
+		},
+		"ew_mouth": {
+			"file": "ew_mouth.png",
+			"h": 41,
+			"w": 159,
+			"x": 1957,
+			"y": 908
+		},
+		"ew_nose": {
+			"file": "ew_nose.png",
+			"h": 35,
+			"w": 30,
+			"x": 2054,
+			"y": 830
+		},
+		"face_lines": {
+			"file": "face_lines.png",
+			"h": 232,
+			"w": 374,
+			"x": 1835,
+			"y": 731
+		},
+		"frange": {
+			"file": "frange.png",
+			"h": 392,
+			"w": 495,
+			"x": 1768,
+			"y": 269
+		},
+		"froissee_d_cil_bas": {
+			"file": "froissee_d_cil_bas.png",
+			"h": 71,
+			"w": 171,
+			"x": 2094,
+			"y": 693
+		},
+		"froissee_d_cil_haut": {
+			"file": "froissee_d_cil_haut.png",
+			"h": 63,
+			"w": 223,
+			"x": 2073,
+			"y": 658
+		},
+		"froissee_d_paupiere": {
+			"file": "froissee_d_paupiere.png",
+			"h": 27,
+			"w": 58,
+			"x": 2110,
+			"y": 657
+		},
+		"froissee_d_pupille": {
+			"file": "froissee_d_pupille.png",
+			"h": 69,
+			"w": 106,
+			"x": 2110,
+			"y": 683
+		},
+		"froissee_d_sourcil": {
+			"file": "froissee_d_sourcil.png",
+			"h": 58,
+			"w": 164,
+			"x": 2088,
+			"y": 634
+		},
+		"froissee_g_cil_bas": {
+			"file": "froissee_g_cil_bas.png",
+			"h": 65,
+			"w": 197,
+			"x": 1777,
+			"y": 697
+		},
+		"froissee_g_cil_haut": {
+			"file": "froissee_g_cil_haut.png",
+			"h": 62,
+			"w": 252,
+			"x": 1755,
+			"y": 647
+		},
+		"froissee_g_paupiere": {
+			"file": "froissee_g_paupiere.png",
+			"h": 31,
+			"w": 99,
+			"x": 1869,
+			"y": 641
+		},
+		"froissee_g_pupille": {
+			"file": "froissee_g_pupille.png",
+			"h": 83,
+			"w": 113,
+			"x": 1812,
+			"y": 669
+		},
+		"froissee_g_sourcil": {
+			"file": "froissee_g_sourcil.png",
+			"h": 41,
+			"w": 163,
+			"x": 1802,
+			"y": 597
+		},
+		"froissee_mouth": {
+			"file": "froissee_mouth.png",
+			"h": 25,
+			"w": 80,
+			"x": 1996,
+			"y": 912
+		},
+		"froissee_nose": {
+			"file": "froissee_nose.png",
+			"h": 35,
+			"w": 30,
+			"x": 2054,
+			"y": 830
+		},
+		"g_cil_bas": {
+			"file": "g_cil_bas.png",
+			"h": 65,
+			"w": 197,
+			"x": 1777,
+			"y": 697
+		},
+		"g_cil_haut": {
+			"file": "g_cil_haut.png",
+			"h": 62,
+			"w": 252,
+			"x": 1755,
+			"y": 647
+		},
+		"g_ear": {
+			"file": "g_ear.png",
+			"h": 178,
+			"w": 129,
+			"x": 1668,
+			"y": 642
+		},
+		"g_hand": {
+			"file": "g_hand.png",
+			"h": 309,
+			"w": 415,
+			"x": 2260,
+			"y": 1810
+		},
+		"g_manche": {
+			"file": "g_manche.png",
+			"h": 794,
+			"w": 523,
+			"x": 1232,
+			"y": 1158
+		},
+		"g_manche_front": {
+			"file": "g_manche_front.png",
+			"h": 497,
+			"w": 1050,
+			"x": 1350,
+			"y": 1772
+		},
+		"g_pants": {
+			"file": "g_pants.png",
+			"h": 3172,
+			"w": 1218,
+			"x": 1153,
+			"y": 2052
+		},
+		"g_paupiere": {
+			"file": "g_paupiere.png",
+			"h": 31,
+			"w": 99,
+			"x": 1867,
+			"y": 632
+		},
+		"g_pupille": {
+			"file": "g_pupille.png",
+			"h": 83,
+			"w": 113,
+			"x": 1812,
+			"y": 669
+		},
+		"g_shoe": {
+			"file": "g_shoe.png",
+			"h": 1563,
+			"w": 320,
+			"x": 1555,
+			"y": 4332
+		},
+		"g_side_meche": {
+			"file": "g_side_meche.png",
+			"h": 613,
+			"w": 192,
+			"x": 1662,
+			"y": 363
+		},
+		"g_sourcil": {
+			"file": "g_sourcil.png",
+			"h": 41,
+			"w": 163,
+			"x": 1794,
+			"y": 588
+		},
+		"hair_head": {
+			"file": "hair_head.png",
+			"h": 854,
+			"w": 864,
+			"x": 1559,
+			"y": 180
+		},
+		"head": {
+			"file": "head.png",
+			"h": 598,
+			"w": 609,
+			"x": 1718,
+			"y": 432
+		},
+		"losange": {
+			"file": "losange.png",
+			"h": 201,
+			"w": 147,
+			"x": 2238,
+			"y": 439
+		},
+		"mouth": {
+			"file": "mouth.png",
+			"h": 26,
+			"w": 65,
+			"x": 2014,
+			"y": 916
+		},
+		"neck": {
+			"file": "neck.png",
+			"h": 537,
+			"w": 329,
+			"x": 1851,
+			"y": 760
+		},
+		"nose": {
+			"file": "nose.png",
+			"h": 35,
+			"w": 30,
+			"x": 2054,
+			"y": 830
+		},
+		"proud_d_cil_bas": {
+			"file": "proud_d_cil_bas.png",
+			"h": 71,
+			"w": 171,
+			"x": 2094,
+			"y": 693
+		},
+		"proud_d_cil_haut": {
+			"file": "proud_d_cil_haut.png",
+			"h": 63,
+			"w": 223,
+			"x": 2073,
+			"y": 645
+		},
+		"proud_d_paupiere": {
+			"file": "proud_d_paupiere.png",
+			"h": 37,
+			"w": 82,
+			"x": 2112,
+			"y": 633
+		},
+		"proud_d_pupille": {
+			"file": "proud_d_pupille.png",
+			"h": 78,
+			"w": 105,
+			"x": 2110,
+			"y": 671
+		},
+		"proud_d_sourcil": {
+			"file": "proud_d_sourcil.png",
+			"h": 41,
+			"w": 163,
+			"x": 2104,
+			"y": 594
+		},
+		"proud_g_cil_bas": {
+			"file": "proud_g_cil_bas.png",
+			"h": 65,
+			"w": 197,
+			"x": 1777,
+			"y": 697
+		},
+		"proud_g_cil_haut": {
+			"file": "proud_g_cil_haut.png",
+			"h": 62,
+			"w": 252,
+			"x": 1755,
+			"y": 647
+		},
+		"proud_g_paupiere": {
+			"file": "proud_g_paupiere.png",
+			"h": 31,
+			"w": 99,
+			"x": 1867,
+			"y": 632
+		},
+		"proud_g_pupille": {
+			"file": "proud_g_pupille.png",
+			"h": 83,
+			"w": 113,
+			"x": 1812,
+			"y": 669
+		},
+		"proud_g_sourcil": {
+			"file": "proud_g_sourcil.png",
+			"h": 41,
+			"w": 163,
+			"x": 1794,
+			"y": 588
+		},
+		"proud_light": {
+			"file": "proud_light.png",
+			"h": 475,
+			"w": 557,
+			"x": 1807,
+			"y": 455
+		},
+		"proud_mouth": {
+			"file": "proud_mouth.png",
+			"h": 22,
+			"w": 100,
+			"x": 1995,
+			"y": 910
+		},
+		"proud_nose": {
+			"file": "proud_nose.png",
+			"h": 35,
+			"w": 30,
+			"x": 2054,
+			"y": 830
+		}
+	},
+	"scale": 0.25,
+	"sets": [
+		"ew",
+		"froissee",
+		"proud"
+	]
+}

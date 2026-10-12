@@ -1,0 +1,32 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://ulxtici1ujw4" path="res://assets/mascots/AME/game/parts/ko_blood.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://n8025f71n1y5" path="res://assets/mascots/AME/game/parts/ko_eyes_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://bfjqpspeqbgox" path="res://assets/mascots/AME/game/parts/ko_eyes_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://c0ij72rqg4qdb" path="res://assets/mascots/AME/game/parts/ko_mouth.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bn27c1xhwy0wl" path="res://assets/mascots/AME/game/parts/ko_nose.png" id="5"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="6"]
+[ext_resource type="Texture2D" uid="uid://1fvkqnntkqka" path="res://assets/mascots/AME/game/parts/ko_sourcil_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://28a3opms538r" path="res://assets/mascots/AME/game/parts/ko_sourcil_g.png" id="8"]
+
+[resource]
+script = ExtResource("6")
+id = &"ko"
+pupille_g_tex = null
+pupille_d_tex = null
+cil_g_tex = null
+cil_d_tex = null
+cil_bas_g_tex = null
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = ExtResource("3")
+eyes_d_tex = ExtResource("2")
+sourcil_g_tex = ExtResource("8")
+sourcil_d_tex = ExtResource("7")
+mouth_tex = ExtResource("4")
+nose_tex = ExtResource("5")
+accessory_tex = null
+blush_tex = null
+decos = [ExtResource("1")]
+overlay_tex = null

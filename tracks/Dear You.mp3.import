@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dl8fw3sjsc46w"
+path="res://.godot/imported/Dear You.mp3-32ad671d716c866860577437fe17a417.mp3str"
+
+[deps]
+
+source_file="res://tracks/Dear You.mp3"
+dest_files=["res://.godot/imported/Dear You.mp3-32ad671d716c866860577437fe17a417.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

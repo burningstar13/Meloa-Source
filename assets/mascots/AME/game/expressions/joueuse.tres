@@ -1,0 +1,35 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://cf4e4hhc0ao57" path="res://assets/mascots/AME/game/parts/joueuse_blush.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bitgm8g2keg4o" path="res://assets/mascots/AME/game/parts/joueuse_cil_bas_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://hxggomh1j883" path="res://assets/mascots/AME/game/parts/joueuse_cil_bas_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bb0hxwkfuesca" path="res://assets/mascots/AME/game/parts/joueuse_cil_haut_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://hnl6yqcsmp22" path="res://assets/mascots/AME/game/parts/joueuse_cil_haut_g.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://mok37x0vdymv" path="res://assets/mascots/AME/game/parts/joueuse_mouth.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://ba206s13jvpk1" path="res://assets/mascots/AME/game/parts/joueuse_nose.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dfaaqxq586ix5" path="res://assets/mascots/AME/game/parts/joueuse_pupille_d.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://dd3xio75wdlm0" path="res://assets/mascots/AME/game/parts/joueuse_pupille_g.png" id="9"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="10"]
+[ext_resource type="Texture2D" uid="uid://df3paxvavftuf" path="res://assets/mascots/AME/game/parts/joueuse_sourcil_d.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://5jjomm8vi5am" path="res://assets/mascots/AME/game/parts/joueuse_sourcil_g.png" id="12"]
+
+[resource]
+script = ExtResource("10")
+id = &"joueuse"
+pupille_g_tex = ExtResource("9")
+pupille_d_tex = ExtResource("8")
+cil_g_tex = ExtResource("5")
+cil_d_tex = ExtResource("4")
+cil_bas_g_tex = ExtResource("3")
+cil_bas_d_tex = ExtResource("2")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("12")
+sourcil_d_tex = ExtResource("11")
+mouth_tex = ExtResource("6")
+nose_tex = ExtResource("7")
+accessory_tex = null
+blush_tex = ExtResource("1")
+overlay_tex = null

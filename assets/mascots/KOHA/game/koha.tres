@@ -1,0 +1,55 @@
+[gd_resource type="Resource" script_class="MascotData" format=3]
+
+[ext_resource type="Texture2D" uid="uid://2jnhxv7qh3hk" path="res://assets/mascots/KOHA/game/parts/pin_neutral.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://opxbiif0ou7l" path="res://assets/mascots/KOHA/game/parts/cil_bas_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dagorb2q5w7wa" path="res://assets/mascots/KOHA/game/parts/cil_bas_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bmbrrni0jeygo" path="res://assets/mascots/KOHA/game/parts/cil_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://dx50xbbxq8klo" path="res://assets/mascots/KOHA/game/parts/cil_g.png" id="5"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/neutral.tres" id="6"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/annoyed.tres" id="7"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/hurt.tres" id="8"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/intrigued.tres" id="9"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/ko.tres" id="10"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/panic.tres" id="11"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/scared.tres" id="12"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/smile.tres" id="13"]
+[ext_resource type="Resource" path="res://assets/mascots/KOHA/game/expressions/angry.tres" id="14"]
+[ext_resource type="Texture2D" uid="uid://b2xhose81emnl" path="res://assets/mascots/KOHA/game/parts/head.png" id="15"]
+[ext_resource type="Texture2D" uid="uid://cbuexyftd2skt" path="res://assets/mascots/KOHA/game/parts/mouth_neutral.png" id="16"]
+[ext_resource type="Texture2D" uid="uid://p3w68iiusidd" path="res://assets/mascots/KOHA/game/parts/nose_neutral.png" id="17"]
+[ext_resource type="Texture2D" uid="uid://smutwl7hw6x6" path="res://assets/mascots/KOHA/game/parts/paupiere_d.png" id="18"]
+[ext_resource type="Texture2D" uid="uid://rbh0aywkimsu" path="res://assets/mascots/KOHA/game/parts/paupiere_g.png" id="19"]
+[ext_resource type="Texture2D" uid="uid://di0jgerbqibdl" path="res://assets/mascots/KOHA/game/parts/pupille_d.png" id="20"]
+[ext_resource type="Texture2D" uid="uid://cdxb2gbdoc78a" path="res://assets/mascots/KOHA/game/parts/pupille_g.png" id="21"]
+[ext_resource type="Script" uid="uid://c8tnci2e2e6f6" path="res://scripts/mascot_data.gd" id="22"]
+[ext_resource type="Texture2D" uid="uid://bu6mkyevasalm" path="res://assets/mascots/KOHA/game/parts/sourcil_d.png" id="23"]
+[ext_resource type="Texture2D" uid="uid://pr0fx3tekvt" path="res://assets/mascots/KOHA/game/parts/sourcil_g.png" id="24"]
+
+[resource]
+script = ExtResource("22")
+character_id = &"koha"
+display_name = "Koha"
+lane = 2
+tint = Color(1, 0.78, 0.25, 1)
+head_tex = ExtResource("15")
+pupille_g_tex = ExtResource("21")
+pupille_d_tex = ExtResource("20")
+cil_g_tex = ExtResource("5")
+cil_d_tex = ExtResource("4")
+cil_bas_g_tex = ExtResource("3")
+cil_bas_d_tex = ExtResource("2")
+paupiere_g_tex = ExtResource("19")
+paupiere_d_tex = ExtResource("18")
+sourcil_g_tex = ExtResource("24")
+sourcil_d_tex = ExtResource("23")
+mouth_tex = ExtResource("16")
+nose_tex = ExtResource("17")
+accessory_tex = ExtResource("1")
+canvas_anchor = Vector2(522, 512)
+eye_center_g = Vector2(415, 556)
+eye_center_d = Vector2(630, 557)
+pupil_max = Vector2(16, 5)
+sourcil_center_g = Vector2(403, 471)
+sourcil_center_d = Vector2(615, 471)
+art_scale = 0.11
+expressions = [ExtResource("6"), ExtResource("7"), ExtResource("8"), ExtResource("9"), ExtResource("10"), ExtResource("11"), ExtResource("12"), ExtResource("13"), ExtResource("14")]

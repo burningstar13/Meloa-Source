@@ -1,0 +1,57 @@
+[gd_resource type="Resource" script_class="MascotData" format=3]
+
+[ext_resource type="Texture2D" uid="uid://du5kxyg26j4b4" path="res://assets/mascots/AME/game/parts/pins_neutral.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://8mipn5lsj7h7" path="res://assets/mascots/AME/game/parts/cil_bas_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://cgs7cvvskntvw" path="res://assets/mascots/AME/game/parts/cil_bas_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://cwscpl5h0ybw2" path="res://assets/mascots/AME/game/parts/cil_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://cn1ixpiwt7cx2" path="res://assets/mascots/AME/game/parts/cil_g.png" id="5"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/neutral.tres" id="6"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/annoyed.tres" id="7"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/disgust.tres" id="8"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/hurt.tres" id="9"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/indi.tres" id="10"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/joueuse.tres" id="11"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/ko.tres" id="12"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/laugh.tres" id="13"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/lmfao.tres" id="14"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/malice.tres" id="15"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/scared.tres" id="16"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/stunned.tres" id="17"]
+[ext_resource type="Resource" path="res://assets/mascots/AME/game/expressions/tired.tres" id="18"]
+[ext_resource type="Texture2D" uid="uid://bpcj00ncv7m4u" path="res://assets/mascots/AME/game/parts/head.png" id="19"]
+[ext_resource type="Texture2D" uid="uid://cth24gykbnege" path="res://assets/mascots/AME/game/parts/mouth_neutral.png" id="20"]
+[ext_resource type="Texture2D" uid="uid://bg2ibrqs4gy6b" path="res://assets/mascots/AME/game/parts/nose_neutral.png" id="21"]
+[ext_resource type="Texture2D" uid="uid://dougcynwwunb3" path="res://assets/mascots/AME/game/parts/pupille_d.png" id="22"]
+[ext_resource type="Texture2D" uid="uid://c7ib6cnju5jpe" path="res://assets/mascots/AME/game/parts/pupille_g.png" id="23"]
+[ext_resource type="Script" uid="uid://c8tnci2e2e6f6" path="res://scripts/mascot_data.gd" id="24"]
+[ext_resource type="Texture2D" uid="uid://cp32coh34k1ar" path="res://assets/mascots/AME/game/parts/sourcil_d.png" id="25"]
+[ext_resource type="Texture2D" uid="uid://dojqnlplpkx0e" path="res://assets/mascots/AME/game/parts/sourcil_g.png" id="26"]
+
+[resource]
+script = ExtResource("24")
+character_id = &"ame"
+display_name = "Amé"
+lane = 1
+tint = Color(0.72, 0.45, 1, 1)
+head_tex = ExtResource("19")
+pupille_g_tex = ExtResource("23")
+pupille_d_tex = ExtResource("22")
+cil_g_tex = ExtResource("5")
+cil_d_tex = ExtResource("4")
+cil_bas_g_tex = ExtResource("3")
+cil_bas_d_tex = ExtResource("2")
+paupiere_g_tex = null
+paupiere_d_tex = null
+sourcil_g_tex = ExtResource("26")
+sourcil_d_tex = ExtResource("25")
+mouth_tex = ExtResource("20")
+nose_tex = ExtResource("21")
+accessory_tex = ExtResource("1")
+canvas_anchor = Vector2(546, 512)
+eye_center_g = Vector2(455, 616)
+eye_center_d = Vector2(636, 616)
+pupil_max = Vector2(15, 9)
+sourcil_center_g = Vector2(480, 550)
+sourcil_center_d = Vector2(610, 550)
+art_scale = 0.105
+expressions = [ExtResource("6"), ExtResource("7"), ExtResource("8"), ExtResource("9"), ExtResource("10"), ExtResource("11"), ExtResource("12"), ExtResource("13"), ExtResource("14"), ExtResource("15"), ExtResource("16"), ExtResource("17"), ExtResource("18")]

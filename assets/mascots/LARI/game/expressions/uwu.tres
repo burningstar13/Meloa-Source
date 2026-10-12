@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://duguom1hcaugg" path="res://assets/mascots/LARI/game/parts/uwu_eyes_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bey14u4u6sflb" path="res://assets/mascots/LARI/game/parts/uwu_eyes_g.png" id="2"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="3"]
+[ext_resource type="Texture2D" uid="uid://r88tu62s47qx" path="res://assets/mascots/LARI/game/parts/uwu_sourcil_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://vb52iqgb200a" path="res://assets/mascots/LARI/game/parts/uwu_sourcil_g.png" id="5"]
+
+[resource]
+script = ExtResource("3")
+id = &"uwu"
+pupille_g_tex = null
+pupille_d_tex = null
+cil_g_tex = null
+cil_d_tex = null
+cil_bas_g_tex = null
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = ExtResource("2")
+eyes_d_tex = ExtResource("1")
+sourcil_g_tex = ExtResource("5")
+sourcil_d_tex = ExtResource("4")
+mouth_tex = null
+nose_tex = null
+accessory_tex = null
+hide_nose = true
+blush_tex = null
+overlay_tex = null

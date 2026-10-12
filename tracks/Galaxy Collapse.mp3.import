@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cunhmfcquih4c"
+path="res://.godot/imported/Galaxy Collapse.mp3-5b17e1e2de44e0d0f63903c89e4137dc.mp3str"
+
+[deps]
+
+source_file="res://tracks/Galaxy Collapse.mp3"
+dest_files=["res://.godot/imported/Galaxy Collapse.mp3-5b17e1e2de44e0d0f63903c89e4137dc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://nlr82dw3r7rj"
+path="res://.godot/imported/chocolate scramble.mp3-bd37c91cde99bbbcc35b4f21b597bdaa.mp3str"
+
+[deps]
+
+source_file="res://tracks/chocolate scramble.mp3"
+dest_files=["res://.godot/imported/chocolate scramble.mp3-bd37c91cde99bbbcc35b4f21b597bdaa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,38 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://3ocw2wgfnad2"]
+
+[ext_resource type="Texture2D" uid="uid://dq5ey4xv5cv2i" path="res://assets/mascots/LARI/game/parts/scared_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dqhd80y383fyp" path="res://assets/mascots/LARI/game/parts/scared_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://s3ayrmkc1782" path="res://assets/mascots/LARI/game/parts/scared_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://cl3prwtbd6ul7" path="res://assets/mascots/LARI/game/parts/scared_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bd52ap2hy1puo" path="res://assets/mascots/LARI/game/parts/scared_shadow.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://bd62j10ys241m" path="res://assets/mascots/LARI/game/parts/scared_sweat.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dwxd5riicg3a2" path="res://assets/mascots/LARI/game/parts/scared_tears.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://be5kc2nens7tx" path="res://assets/mascots/LARI/game/parts/scared_mouth.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://i0ohi84m30ke" path="res://assets/mascots/LARI/game/parts/scared_nose.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://duesv7o0idn1d" path="res://assets/mascots/LARI/game/parts/scared_pupille_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://cvostbd206r22" path="res://assets/mascots/LARI/game/parts/scared_pupille_g.png" id="11"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="12"]
+[ext_resource type="Texture2D" uid="uid://diy3hnnyuyvln" path="res://assets/mascots/LARI/game/parts/scared_sourcil_d.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://cxw8f7ny4vcnm" path="res://assets/mascots/LARI/game/parts/scared_sourcil_g.png" id="14"]
+
+[resource]
+script = ExtResource("12")
+id = &"scared"
+pupille_g_tex = ExtResource("11")
+pupille_d_tex = ExtResource("10")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("14")
+sourcil_d_tex = ExtResource("13")
+mouth_tex = ExtResource("8")
+nose_tex = ExtResource("9")
+accessory_tex = null
+blush_tex = null
+decos = [ExtResource("5"), ExtResource("6"), ExtResource("7")]
+overlay_tex = null

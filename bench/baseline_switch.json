@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 12922.63,
+    "date": "2026-09-08T18:39:21",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "baseline",
+    "preset": "default",
+    "scenario": "switch",
+    "width": 1280
+  },
+  "switch": {
+    "load_ms_avg": 54.7215,
+    "load_ms_max": 98.516,
+    "loads": 12,
+    "mem_after_mb": 148.628796577454,
+    "mem_before_mb": 148.188710212708,
+    "mem_growth_mb": 0.440086364746094,
+    "nodes": 1151.0
+  }
+}

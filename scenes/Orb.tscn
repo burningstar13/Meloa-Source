@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" uid="uid://c8o0dwtx0tbqq" path="res://scripts/orb.gd" id="1"]
+
+[node name="Orb" type="Node2D" unique_id=1000675423]
+script = ExtResource("1")

@@ -1,0 +1,34 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://bqydqqkdsf7wi" path="res://assets/mascots/LARI/game/parts/chipie_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://b7veyu2aooi6s" path="res://assets/mascots/LARI/game/parts/chipie_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://olm1ki77wc3l" path="res://assets/mascots/LARI/game/parts/chipie_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://jrxqg47oh63y" path="res://assets/mascots/LARI/game/parts/chipie_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bdoo1t1mouq0o" path="res://assets/mascots/LARI/game/parts/chipie_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://b6facvabejx75" path="res://assets/mascots/LARI/game/parts/chipie_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://djpejbhnqrswo" path="res://assets/mascots/LARI/game/parts/chipie_pupille_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dhn4dm8hplywj" path="res://assets/mascots/LARI/game/parts/chipie_pupille_g.png" id="8"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="9"]
+[ext_resource type="Texture2D" uid="uid://46e8pooun5tl" path="res://assets/mascots/LARI/game/parts/chipie_sourcil_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://b4h2ppshy3cbr" path="res://assets/mascots/LARI/game/parts/chipie_sourcil_g.png" id="11"]
+
+[resource]
+script = ExtResource("9")
+id = &"chipie"
+pupille_g_tex = ExtResource("8")
+pupille_d_tex = ExtResource("7")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("11")
+sourcil_d_tex = ExtResource("10")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

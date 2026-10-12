@@ -1,0 +1,92 @@
+{
+  "augmented_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 197.0,
+    "judged": 197,
+    "max_combo": 197,
+    "notes": 654,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "bookmaker_corrupt.json": {
+    "acc": 100.0,
+    "acc_sum": 219.0,
+    "judged": 219,
+    "max_combo": 219,
+    "notes": 1533,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "deepsea_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 282.0,
+    "judged": 282,
+    "max_combo": 282,
+    "notes": 1912,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "entangle_corrupt.json": {
+    "acc": 99.7792494481236,
+    "acc_sum": 452.0,
+    "judged": 453,
+    "max_combo": 453,
+    "notes": 2126,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "freedomdive_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 272.0,
+    "judged": 272,
+    "max_combo": 272,
+    "notes": 1392,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "galaxy_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 202.0,
+    "judged": 202,
+    "max_combo": 202,
+    "notes": 2291,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "looping_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 175.0,
+    "judged": 175,
+    "max_combo": 175,
+    "notes": 451,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "montagem_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 116.0,
+    "judged": 116,
+    "max_combo": 116,
+    "notes": 594,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "ravenatic_easy.json": {
+    "acc": 100.0,
+    "acc_sum": 73.0,
+    "judged": 73,
+    "max_combo": 73,
+    "notes": 334,
+    "score": 0,
+    "worst_ms": 0.0
+  },
+  "sayonara_impossible.json": {
+    "acc": 100.0,
+    "acc_sum": 142.0,
+    "judged": 142,
+    "max_combo": 142,
+    "notes": 770,
+    "score": 0,
+    "worst_ms": 0.0
+  }
+}

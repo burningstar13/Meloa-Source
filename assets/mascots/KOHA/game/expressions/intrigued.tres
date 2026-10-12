@@ -1,0 +1,36 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://ceb2yobl2rtol" path="res://assets/mascots/KOHA/game/parts/intrigued_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dfqtoxxn7ta4r" path="res://assets/mascots/KOHA/game/parts/intrigued_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://cifwcakeg7k7m" path="res://assets/mascots/KOHA/game/parts/intrigued_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bj85h5tm77u7t" path="res://assets/mascots/KOHA/game/parts/intrigued_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://pg7box244mkf" path="res://assets/mascots/KOHA/game/parts/intrigued_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://bfhtwbg5e5s55" path="res://assets/mascots/KOHA/game/parts/intrigued_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://r6ch1v5omrd" path="res://assets/mascots/KOHA/game/parts/intrigued_paupiere_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dhotnoouvey7s" path="res://assets/mascots/KOHA/game/parts/intrigued_paupiere_g.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://cjmf2qx3mlmhd" path="res://assets/mascots/KOHA/game/parts/intrigued_pupille_d.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://cpaxoy8mtbhk1" path="res://assets/mascots/KOHA/game/parts/intrigued_pupille_g.png" id="10"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="11"]
+[ext_resource type="Texture2D" uid="uid://bu65g1n8555xd" path="res://assets/mascots/KOHA/game/parts/intrigued_sourcil_d.png" id="12"]
+[ext_resource type="Texture2D" uid="uid://cx5ac731bk0cv" path="res://assets/mascots/KOHA/game/parts/intrigued_sourcil_g.png" id="13"]
+
+[resource]
+script = ExtResource("11")
+id = &"intrigued"
+pupille_g_tex = ExtResource("10")
+pupille_d_tex = ExtResource("9")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = ExtResource("8")
+paupiere_d_tex = ExtResource("7")
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("13")
+sourcil_d_tex = ExtResource("12")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

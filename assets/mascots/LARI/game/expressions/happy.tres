@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://d1ao1uqlj6gt3"]
+
+[ext_resource type="Texture2D" uid="uid://1yuq5miii7rj" path="res://assets/mascots/LARI/game/parts/happy_blush.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://ckvfbna2lr2mv" path="res://assets/mascots/LARI/game/parts/happy_eyes_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://cv8c2rgv8i42x" path="res://assets/mascots/LARI/game/parts/happy_eyes_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://ereth5fbplno" path="res://assets/mascots/LARI/game/parts/happy_mouth.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://c4bctuvftxah6" path="res://assets/mascots/LARI/game/parts/happy_nose.png" id="5"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="6"]
+[ext_resource type="Texture2D" uid="uid://bmdubh5ba1qes" path="res://assets/mascots/LARI/game/parts/happy_sourcil_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://d148u1h6v4af0" path="res://assets/mascots/LARI/game/parts/happy_sourcil_g.png" id="8"]
+
+[resource]
+script = ExtResource("6")
+id = &"happy"
+pupille_g_tex = null
+pupille_d_tex = null
+cil_g_tex = null
+cil_d_tex = null
+cil_bas_g_tex = null
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = ExtResource("3")
+eyes_d_tex = ExtResource("2")
+sourcil_g_tex = ExtResource("8")
+sourcil_d_tex = ExtResource("7")
+mouth_tex = ExtResource("4")
+nose_tex = ExtResource("5")
+accessory_tex = null
+blush_tex = ExtResource("1")
+overlay_tex = null

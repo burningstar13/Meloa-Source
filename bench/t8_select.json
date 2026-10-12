@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3458.132,
+    "date": "2026-09-08T20:01:27",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "t8",
+    "preset": "default",
+    "scenario": "select",
+    "width": 1280
+  },
+  "select_idle": {
+    "draw_calls": 311,
+    "fps_avg": 246.006209856638,
+    "fps_min": 130.804447677554,
+    "frames": 1969,
+    "hitches": 0,
+    "live_notes_max": 0,
+    "mem_mb": 149.030110359192,
+    "ms_avg": 4.06493803787619,
+    "ms_max": 7.64499998092651,
+    "ms_p50": 4.66300010681152,
+    "ms_p95": 5.21400022506714,
+    "ms_p99": 5.58500003814697,
+    "nodes": 1163,
+    "objects": 969,
+    "objects_allocated": -30,
+    "render_cpu_ms": 0.460358049661875,
+    "render_gpu_ms": 0.405437278014988,
+    "vram_mb": 336.18359375
+  },
+  "select_scroll": {
+    "draw_calls": 310,
+    "fps_avg": 179.995612570896,
+    "fps_min": 15.9974408390845,
+    "frames": 1440,
+    "hitches": 9,
+    "live_notes_max": 0,
+    "mem_mb": 167.885352134705,
+    "ms_avg": 5.55569097333484,
+    "ms_max": 62.5099983215332,
+    "ms_p50": 5.01399993896484,
+    "ms_p95": 8.12899971008301,
+    "ms_p99": 10.1820001602173,
+    "nodes": 1169,
+    "objects": 0,
+    "objects_allocated": 0,
+    "render_cpu_ms": 0.479455555106203,
+    "render_gpu_ms": 0.693216666868991,
+    "vram_mb": 430.43359375
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "entangle_corrupt.json": {
+    "acc": 99.7792494481236,
+    "acc_sum": 452.0,
+    "judged": 453,
+    "max_combo": 453,
+    "notes": 2126,
+    "score": 0,
+    "worst_ms": 0.0
+  }
+}

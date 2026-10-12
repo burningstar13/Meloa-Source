@@ -1,0 +1,33 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://c76dbjx6pwaqr" path="res://assets/mascots/AME/game/parts/laugh_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dqc5bfqg8buaw" path="res://assets/mascots/AME/game/parts/laugh_cil_haut_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c8t8if536568n" path="res://assets/mascots/AME/game/parts/laugh_cil_haut_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://ydqm6d4esj6y" path="res://assets/mascots/AME/game/parts/laugh_mouth.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://ci4wft1qfchik" path="res://assets/mascots/AME/game/parts/laugh_nose.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://dt0s0q65udb5r" path="res://assets/mascots/AME/game/parts/laugh_pupille_d.png" id="6"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="7"]
+[ext_resource type="Texture2D" uid="uid://dnytmidnjmwxu" path="res://assets/mascots/AME/game/parts/laugh_sourcil_d.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://bnay7mnk5qcbb" path="res://assets/mascots/AME/game/parts/laugh_sourcil_g.png" id="9"]
+
+[resource]
+script = ExtResource("7")
+id = &"laugh"
+pupille_g_tex = null
+pupille_d_tex = ExtResource("6")
+cil_g_tex = ExtResource("3")
+cil_d_tex = ExtResource("2")
+cil_bas_g_tex = null
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+close_eye_g = true
+sourcil_g_tex = ExtResource("9")
+sourcil_d_tex = ExtResource("8")
+mouth_tex = ExtResource("4")
+nose_tex = ExtResource("5")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

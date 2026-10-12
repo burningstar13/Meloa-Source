@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 11477.119,
+    "chart": "res://charts/ravenatic_easy.json",
+    "date": "2026-09-08T18:34:39",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "baseline",
+    "load_ms": 16.81,
+    "notes": 334,
+    "preset": "default",
+    "scenario": "play",
+    "width": 1280
+  },
+  "play": {
+    "draw_calls": 249,
+    "fps_avg": 221.77249139876,
+    "fps_min": 114.495074011305,
+    "frames": 5545,
+    "hitches": 0,
+    "live_notes_max": 3,
+    "mem_mb": 151.104684829712,
+    "ms_avg": 4.50912551729393,
+    "ms_max": 8.73400020599365,
+    "ms_p50": 4.43699979782104,
+    "ms_p95": 5.64799976348877,
+    "ms_p99": 6.44399976730347,
+    "nodes": 1163,
+    "objects": 467,
+    "objects_allocated": 31,
+    "render_cpu_ms": 0.358283859115124,
+    "render_gpu_ms": 0.758118485415487,
+    "vram_mb": 1093.42578125
+  }
+}

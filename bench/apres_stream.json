@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3590.728,
+    "chart": "res://charts/entangle_corrupt.json",
+    "date": "2026-09-08T20:27:19",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "apres",
+    "load_ms": 94.86,
+    "notes": 2126,
+    "preset": "default",
+    "scenario": "play",
+    "width": 1280
+  },
+  "play": {
+    "draw_calls": 382,
+    "fps_avg": 141.627695397018,
+    "fps_min": 80.0256063379655,
+    "frames": 3541,
+    "hitches": 0,
+    "live_notes_max": 10,
+    "mem_mb": 149.768842697144,
+    "ms_avg": 7.06076588478509,
+    "ms_max": 12.496000289917,
+    "ms_p50": 6.97800016403198,
+    "ms_p95": 8.52600002288818,
+    "ms_p99": 9.57499980926514,
+    "nodes": 1187,
+    "objects": 781,
+    "objects_allocated": 55,
+    "render_cpu_ms": 0.468368257389874,
+    "render_gpu_ms": 0.850047162022001,
+    "vram_mb": 321.30859375
+  }
+}

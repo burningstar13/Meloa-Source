@@ -1,0 +1,35 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://c4k5r7j0d5tij"]
+
+[ext_resource type="Texture2D" uid="uid://6gdo0gfmw1vh" path="res://assets/mascots/LARI/game/parts/annoyed_blush.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dyruaq7cvfw7g" path="res://assets/mascots/LARI/game/parts/annoyed_cil_bas_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://d6o4e0m1sgno" path="res://assets/mascots/LARI/game/parts/annoyed_cil_bas_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://b80bbsj1e1m2a" path="res://assets/mascots/LARI/game/parts/annoyed_cil_haut_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://23cyylqomiet" path="res://assets/mascots/LARI/game/parts/annoyed_cil_haut_g.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://ddbiq7f6pxco2" path="res://assets/mascots/LARI/game/parts/annoyed_mouth.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://lreg51kt24rs" path="res://assets/mascots/LARI/game/parts/annoyed_nose.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://d04cn54mynftw" path="res://assets/mascots/LARI/game/parts/annoyed_pupille_d.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://df3sjeem5ao4h" path="res://assets/mascots/LARI/game/parts/annoyed_pupille_g.png" id="9"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="10"]
+[ext_resource type="Texture2D" uid="uid://bl1a2edfuw6pk" path="res://assets/mascots/LARI/game/parts/annoyed_sourcil_d.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://do8nkkngh6hk4" path="res://assets/mascots/LARI/game/parts/annoyed_sourcil_g.png" id="12"]
+
+[resource]
+script = ExtResource("10")
+id = &"annoyed"
+pupille_g_tex = ExtResource("9")
+pupille_d_tex = ExtResource("8")
+cil_g_tex = ExtResource("5")
+cil_d_tex = ExtResource("4")
+cil_bas_g_tex = ExtResource("3")
+cil_bas_d_tex = ExtResource("2")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("12")
+sourcil_d_tex = ExtResource("11")
+mouth_tex = ExtResource("6")
+nose_tex = ExtResource("7")
+accessory_tex = null
+blush_tex = ExtResource("1")
+overlay_tex = null

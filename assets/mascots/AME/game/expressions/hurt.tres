@@ -1,0 +1,35 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://ej8njc16ry0d" path="res://assets/mascots/AME/game/parts/hurt_pins.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://wv0js075r82d" path="res://assets/mascots/AME/game/parts/hurt_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://d0tk1k55r6scn" path="res://assets/mascots/AME/game/parts/hurt_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://mrm1chr22df2" path="res://assets/mascots/AME/game/parts/hurt_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://cbl8v3mnvnxpl" path="res://assets/mascots/AME/game/parts/hurt_bruises.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://b5euibahisksc" path="res://assets/mascots/AME/game/parts/hurt_mouth.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://b435qh37kagd0" path="res://assets/mascots/AME/game/parts/hurt_nose.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://donw53u6wdptp" path="res://assets/mascots/AME/game/parts/hurt_pupille_g.png" id="8"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="9"]
+[ext_resource type="Texture2D" uid="uid://cgn7ctbdimbyj" path="res://assets/mascots/AME/game/parts/hurt_sourcil_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://cvwq5smecxf06" path="res://assets/mascots/AME/game/parts/hurt_sourcil_g.png" id="11"]
+
+[resource]
+script = ExtResource("9")
+id = &"hurt"
+pupille_g_tex = ExtResource("8")
+pupille_d_tex = null
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = null
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("11")
+sourcil_d_tex = ExtResource("10")
+mouth_tex = ExtResource("6")
+nose_tex = ExtResource("7")
+accessory_tex = ExtResource("1")
+blush_tex = null
+decos = [ExtResource("5")]
+overlay_tex = null

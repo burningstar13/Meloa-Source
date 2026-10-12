@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3463.498,
+    "chart": "res://charts/bookmaker_corrupt.json",
+    "date": "2026-09-08T20:28:22",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "apres",
+    "load_ms": 77.186,
+    "notes": 1533,
+    "preset": "default",
+    "scenario": "play",
+    "width": 1280
+  },
+  "play": {
+    "draw_calls": 393,
+    "fps_avg": 121.851150604526,
+    "fps_min": 69.1276114630786,
+    "frames": 3047,
+    "hitches": 0,
+    "live_notes_max": 8,
+    "mem_mb": 192.705289840698,
+    "ms_avg": 8.20673415916726,
+    "ms_max": 14.4659996032715,
+    "ms_p50": 8.36299991607666,
+    "ms_p95": 10.0319995880127,
+    "ms_p99": 12.956000328064,
+    "nodes": 1185,
+    "objects": 728,
+    "objects_allocated": 76,
+    "render_cpu_ms": 0.481495897731587,
+    "render_gpu_ms": 0.990093862928247,
+    "vram_mb": 368.74609375
+  }
+}

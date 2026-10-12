@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 2365.552,
+    "date": "2026-09-08T19:04:15",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "t2b",
+    "preset": "default",
+    "scenario": "menu",
+    "width": 1280
+  },
+  "menu_home": {
+    "draw_calls": 0,
+    "fps_avg": 2375.04562171465,
+    "fps_min": 649.35066543556,
+    "frames": 11876,
+    "hitches": 0,
+    "live_notes_max": 0,
+    "mem_mb": 89.9935932159424,
+    "ms_avg": 0.421044543674093,
+    "ms_max": 1.53999996185303,
+    "ms_p50": 0.388000011444092,
+    "ms_p95": 0.685999989509583,
+    "ms_p99": 0.888000011444092,
+    "nodes": 36,
+    "objects": 0,
+    "objects_allocated": 0,
+    "render_cpu_ms": 0.0218043112336872,
+    "render_gpu_ms": 0.00461140118207458,
+    "vram_mb": 17.484375
+  }
+}

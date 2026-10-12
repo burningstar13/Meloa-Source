@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bckfo17lgapq4"
+path="res://.godot/imported/Sayonara hatsukoi.mp3-8ef80a8375d4557a29066fc0535c1dfd.mp3str"
+
+[deps]
+
+source_file="res://tracks/Sayonara hatsukoi.mp3"
+dest_files=["res://.godot/imported/Sayonara hatsukoi.mp3-8ef80a8375d4557a29066fc0535c1dfd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

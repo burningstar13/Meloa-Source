@@ -1,0 +1,34 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://mscyxvy8asog" path="res://assets/mascots/LARI/game/parts/idol_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://d2sal0upe61iy" path="res://assets/mascots/LARI/game/parts/idol_cil_haut_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c4v735ia32svx" path="res://assets/mascots/LARI/game/parts/idol_star_eyed_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://dgy1x2gun0sww" path="res://assets/mascots/LARI/game/parts/idol_eyes_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://v6ti4pvbt1ex" path="res://assets/mascots/LARI/game/parts/idol_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://dvovi6jo3g7ld" path="res://assets/mascots/LARI/game/parts/idol_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://0xol5u07w4ab" path="res://assets/mascots/LARI/game/parts/idol_pupille_d.png" id="7"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="8"]
+[ext_resource type="Texture2D" uid="uid://cairidq3fhomo" path="res://assets/mascots/LARI/game/parts/idol_sourcil_d.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://jjvxactv6f21" path="res://assets/mascots/LARI/game/parts/idol_sourcil_g.png" id="10"]
+
+[resource]
+script = ExtResource("8")
+id = &"idol"
+pupille_g_tex = null
+pupille_d_tex = ExtResource("7")
+cil_g_tex = null
+cil_d_tex = ExtResource("2")
+cil_bas_g_tex = null
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = ExtResource("4")
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("10")
+sourcil_d_tex = ExtResource("9")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+decos = [ExtResource("3")]
+overlay_tex = null

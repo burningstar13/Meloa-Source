@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3615.946,
+    "chart": "res://charts/freedomdive_impossible.json",
+    "date": "2026-09-08T19:31:20",
+    "driver": "d3d12",
+    "height": 1415,
+    "label": "q4k_LOW",
+    "load_ms": 110.465,
+    "notes": 1392,
+    "preset": "default",
+    "scenario": "play",
+    "width": 2564
+  },
+  "play": {
+    "draw_calls": 283,
+    "fps_avg": 427.781678844316,
+    "fps_min": 60.1901998743818,
+    "frames": 5134,
+    "hitches": 0,
+    "live_notes_max": 7,
+    "mem_mb": 149.36993598938,
+    "ms_avg": 2.33764101983417,
+    "ms_max": 16.6140003204346,
+    "ms_p50": 1.97800004482269,
+    "ms_p95": 5.66900014877319,
+    "ms_p99": 7.16300010681152,
+    "nodes": 1171,
+    "objects": 633,
+    "objects_allocated": -12,
+    "render_cpu_ms": 0.370156992593999,
+    "render_gpu_ms": 0.611341449424456,
+    "vram_mb": 395.5625
+  }
+}

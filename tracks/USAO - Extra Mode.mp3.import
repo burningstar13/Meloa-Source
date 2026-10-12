@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://da2q7w4nj263q"
+path="res://.godot/imported/USAO - Extra Mode.mp3-c8e05cf8226413e8b9759262834487a1.mp3str"
+
+[deps]
+
+source_file="res://tracks/USAO - Extra Mode.mp3"
+dest_files=["res://.godot/imported/USAO - Extra Mode.mp3-c8e05cf8226413e8b9759262834487a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

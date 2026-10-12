@@ -1,0 +1,34 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3 uid="uid://bny63q6ac0a1f"]
+
+[ext_resource type="Texture2D" uid="uid://5ppncmrmdp0q" path="res://assets/mascots/LARI/game/parts/surprised_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://chom08jp7yelj" path="res://assets/mascots/LARI/game/parts/surprised_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://spc4jxaii8dr" path="res://assets/mascots/LARI/game/parts/surprised_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://da4x15bge7rc6" path="res://assets/mascots/LARI/game/parts/surprised_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://dvlok5yyxsrta" path="res://assets/mascots/LARI/game/parts/surprised_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://1ns58hxoil1" path="res://assets/mascots/LARI/game/parts/surprised_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://c7lbwnamapsbi" path="res://assets/mascots/LARI/game/parts/surprised_pupille_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dwmy8eqbmewkt" path="res://assets/mascots/LARI/game/parts/surprised_pupille_g.png" id="8"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="9"]
+[ext_resource type="Texture2D" uid="uid://bxtxq80bbkc3x" path="res://assets/mascots/LARI/game/parts/surprised_sourcil_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://bmjx80v5upbv0" path="res://assets/mascots/LARI/game/parts/surprised_sourcil_g.png" id="11"]
+
+[resource]
+script = ExtResource("9")
+id = &"surprised"
+pupille_g_tex = ExtResource("8")
+pupille_d_tex = ExtResource("7")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("11")
+sourcil_d_tex = ExtResource("10")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

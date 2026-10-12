@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "adapter": "NVIDIA GeForce RTX 4070",
+    "boot_ms": 3410.678,
+    "chart": "res://charts/galaxy_impossible.json",
+    "date": "2026-09-08T20:37:26",
+    "driver": "d3d12",
+    "height": 720,
+    "label": "hud",
+    "load_ms": 91.62,
+    "notes": 2291,
+    "preset": "default",
+    "scenario": "play",
+    "width": 1280
+  },
+  "play": {
+    "draw_calls": 302,
+    "fps_avg": 157.118364157831,
+    "fps_min": 84.2530932142889,
+    "frames": 3143,
+    "hitches": 0,
+    "live_notes_max": 6,
+    "mem_mb": 152.189353942871,
+    "ms_avg": 6.3646283829398,
+    "ms_max": 11.8690004348755,
+    "ms_p50": 6.25299978256226,
+    "ms_p95": 7.52299976348877,
+    "ms_p99": 8.97900009155273,
+    "nodes": 1179,
+    "objects": 798,
+    "objects_allocated": 42,
+    "render_cpu_ms": 0.531946229519375,
+    "render_gpu_ms": 0.762985364399137,
+    "vram_mb": 295.30859375
+  }
+}

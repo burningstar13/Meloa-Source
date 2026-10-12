@@ -1,0 +1,40 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://lxh0d0i8e5h2" path="res://assets/mascots/KOHA/game/parts/ko_pin.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://ybns7tt20oog" path="res://assets/mascots/KOHA/game/parts/ko_cil_bas_d.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://do34pads0x5a7" path="res://assets/mascots/KOHA/game/parts/ko_cil_bas_g.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://oskid286638f" path="res://assets/mascots/KOHA/game/parts/ko_cil_haut_d.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://djd8h6bnmodha" path="res://assets/mascots/KOHA/game/parts/ko_cil_haut_g.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://m86ochqvpury" path="res://assets/mascots/KOHA/game/parts/ko_trait.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dplykci7etqpg" path="res://assets/mascots/KOHA/game/parts/ko_traits_blancs.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://b1j6ueg2x4hxi" path="res://assets/mascots/KOHA/game/parts/ko_mouth.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://c2gvyj7q3o6au" path="res://assets/mascots/KOHA/game/parts/ko_nose.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://bdvrnjquxiu1e" path="res://assets/mascots/KOHA/game/parts/ko_paupiere_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://cf04b686fss0e" path="res://assets/mascots/KOHA/game/parts/ko_paupiere_g.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://cq1ghtky0f80r" path="res://assets/mascots/KOHA/game/parts/ko_pupille_d.png" id="12"]
+[ext_resource type="Texture2D" uid="uid://l5twfegud6gj" path="res://assets/mascots/KOHA/game/parts/ko_pupille_g.png" id="13"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="14"]
+[ext_resource type="Texture2D" uid="uid://cv1b6k22jr3kp" path="res://assets/mascots/KOHA/game/parts/ko_sourcil_d.png" id="15"]
+[ext_resource type="Texture2D" uid="uid://5xr5gsyy7441" path="res://assets/mascots/KOHA/game/parts/ko_sourcil_g.png" id="16"]
+
+[resource]
+script = ExtResource("14")
+id = &"ko"
+pupille_g_tex = ExtResource("13")
+pupille_d_tex = ExtResource("12")
+cil_g_tex = ExtResource("5")
+cil_d_tex = ExtResource("4")
+cil_bas_g_tex = ExtResource("3")
+cil_bas_d_tex = ExtResource("2")
+paupiere_g_tex = ExtResource("11")
+paupiere_d_tex = ExtResource("10")
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("16")
+sourcil_d_tex = ExtResource("15")
+mouth_tex = ExtResource("8")
+nose_tex = ExtResource("9")
+accessory_tex = ExtResource("1")
+blush_tex = null
+decos = [ExtResource("6"), ExtResource("7")]
+overlay_tex = null

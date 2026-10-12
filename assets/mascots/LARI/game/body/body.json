@@ -1,0 +1,418 @@
+{
+	"canvas_h": 6000,
+	"canvas_w": 4000,
+	"parts": {
+		"capuche_back": {
+			"file": "capuche_back.png",
+			"h": 646,
+			"w": 940,
+			"x": 2336,
+			"y": 981
+		},
+		"d_capuche_front_1": {
+			"file": "d_capuche_front_1.png",
+			"h": 554,
+			"w": 540,
+			"x": 2521,
+			"y": 1118
+		},
+		"d_capuche_front_2": {
+			"file": "d_capuche_front_2.png",
+			"h": 573,
+			"w": 497,
+			"x": 2902,
+			"y": 1054
+		},
+		"d_chaussette": {
+			"file": "d_chaussette.png",
+			"h": 1221,
+			"w": 861,
+			"x": 2246,
+			"y": 4333
+		},
+		"d_chaussure": {
+			"file": "d_chaussure.png",
+			"h": 957,
+			"w": 633,
+			"x": 2492,
+			"y": 4919
+		},
+		"d_cil_bas": {
+			"file": "d_cil_bas.png",
+			"h": 68,
+			"w": 217,
+			"x": 2431,
+			"y": 741
+		},
+		"d_cil_haut": {
+			"file": "d_cil_haut.png",
+			"h": 110,
+			"w": 281,
+			"x": 2392,
+			"y": 534
+		},
+		"d_coat": {
+			"file": "d_coat.png",
+			"h": 1607,
+			"w": 849,
+			"x": 2262,
+			"y": 1437
+		},
+		"d_hand": {
+			"file": "d_hand.png",
+			"h": 601,
+			"w": 341,
+			"x": 3244,
+			"y": 2863
+		},
+		"d_leg": {
+			"file": "d_leg.png",
+			"h": 1682,
+			"w": 845,
+			"x": 1892,
+			"y": 3144
+		},
+		"d_manche": {
+			"file": "d_manche.png",
+			"h": 1938,
+			"w": 999,
+			"x": 2665,
+			"y": 1252
+		},
+		"d_pupille": {
+			"file": "d_pupille.png",
+			"h": 168,
+			"w": 158,
+			"x": 2448,
+			"y": 588
+		},
+		"d_side_meche": {
+			"file": "d_side_meche.png",
+			"h": 795,
+			"w": 216,
+			"x": 2557,
+			"y": 280
+		},
+		"d_sourcil": {
+			"file": "d_sourcil.png",
+			"h": 96,
+			"w": 233,
+			"x": 2368,
+			"y": 448
+		},
+		"d_tail": {
+			"file": "d_tail.png",
+			"h": 894,
+			"w": 1015,
+			"x": 2545,
+			"y": 36
+		},
+		"d_tail_bas": {
+			"file": "d_tail_bas.png",
+			"h": 1054,
+			"w": 851,
+			"x": 2660,
+			"y": 496
+		},
+		"ear": {
+			"file": "ear.png",
+			"h": 219,
+			"w": 152,
+			"x": 2694,
+			"y": 550
+		},
+		"frange": {
+			"file": "frange.png",
+			"h": 487,
+			"w": 631,
+			"x": 2057,
+			"y": 180
+		},
+		"g_capuche_front": {
+			"file": "g_capuche_front.png",
+			"h": 505,
+			"w": 351,
+			"x": 2091,
+			"y": 1101
+		},
+		"g_chaussette": {
+			"file": "g_chaussette.png",
+			"h": 1223,
+			"w": 1025,
+			"x": 312,
+			"y": 4399
+		},
+		"g_chaussure": {
+			"file": "g_chaussure.png",
+			"h": 782,
+			"w": 779,
+			"x": 106,
+			"y": 5161
+		},
+		"g_cil_bas": {
+			"file": "g_cil_bas.png",
+			"h": 69,
+			"w": 143,
+			"x": 2141,
+			"y": 748
+		},
+		"g_cil_haut": {
+			"file": "g_cil_haut.png",
+			"h": 98,
+			"w": 227,
+			"x": 2069,
+			"y": 557
+		},
+		"g_coat": {
+			"file": "g_coat.png",
+			"h": 1356,
+			"w": 635,
+			"x": 1669,
+			"y": 1367
+		},
+		"g_hand": {
+			"file": "g_hand.png",
+			"h": 514,
+			"w": 512,
+			"x": 974,
+			"y": 2685
+		},
+		"g_leg": {
+			"file": "g_leg.png",
+			"h": 1698,
+			"w": 1244,
+			"x": 950,
+			"y": 3088
+		},
+		"g_manche": {
+			"file": "g_manche.png",
+			"h": 1659,
+			"w": 1020,
+			"x": 1255,
+			"y": 1295
+		},
+		"g_pupille": {
+			"file": "g_pupille.png",
+			"h": 164,
+			"w": 141,
+			"x": 2156,
+			"y": 608
+		},
+		"g_side_meche": {
+			"file": "g_side_meche.png",
+			"h": 680,
+			"w": 285,
+			"x": 1984,
+			"y": 431
+		},
+		"g_sourcil": {
+			"file": "g_sourcil.png",
+			"h": 68,
+			"w": 118,
+			"x": 2125,
+			"y": 490
+		},
+		"g_tail": {
+			"file": "g_tail.png",
+			"h": 937,
+			"w": 915,
+			"x": 1430,
+			"y": 56
+		},
+		"g_tail_bas": {
+			"file": "g_tail_bas.png",
+			"h": 1011,
+			"w": 1617,
+			"x": 1739,
+			"y": 573
+		},
+		"hair_star": {
+			"file": "hair_star.png",
+			"h": 194,
+			"w": 190,
+			"x": 2001,
+			"y": 404
+		},
+		"head": {
+			"file": "head.png",
+			"h": 777,
+			"w": 714,
+			"x": 2062,
+			"y": 241
+		},
+		"head_hair": {
+			"file": "head_hair.png",
+			"h": 637,
+			"w": 1017,
+			"x": 1921,
+			"y": 62
+		},
+		"hihi_d_eyes": {
+			"file": "hihi_d_eyes.png",
+			"h": 198,
+			"w": 178,
+			"x": 2395,
+			"y": 591
+		},
+		"hihi_d_sourcil": {
+			"file": "hihi_d_sourcil.png",
+			"h": 37,
+			"w": 94,
+			"x": 2373,
+			"y": 567
+		},
+		"hihi_g_eyes": {
+			"file": "hihi_g_eyes.png",
+			"h": 168,
+			"w": 146,
+			"x": 2138,
+			"y": 607
+		},
+		"hihi_g_sourcil": {
+			"file": "hihi_g_sourcil.png",
+			"h": 29,
+			"w": 99,
+			"x": 2202,
+			"y": 577
+		},
+		"hihi_mouth": {
+			"file": "hihi_mouth.png",
+			"h": 114,
+			"w": 169,
+			"x": 2275,
+			"y": 855
+		},
+		"hihi_nose": {
+			"file": "hihi_nose.png",
+			"h": 36,
+			"w": 27,
+			"x": 2282,
+			"y": 781
+		},
+		"mouth": {
+			"file": "mouth.png",
+			"h": 63,
+			"w": 67,
+			"x": 2310,
+			"y": 884
+		},
+		"neck": {
+			"file": "neck.png",
+			"h": 756,
+			"w": 607,
+			"x": 2173,
+			"y": 500
+		},
+		"nose": {
+			"file": "nose.png",
+			"h": 118,
+			"w": 60,
+			"x": 2264,
+			"y": 719
+		},
+		"o_o_d_eyes": {
+			"file": "o_o_d_eyes.png",
+			"h": 179,
+			"w": 214,
+			"x": 2415,
+			"y": 596
+		},
+		"o_o_d_sourcil": {
+			"file": "o_o_d_sourcil.png",
+			"h": 137,
+			"w": 247,
+			"x": 2360,
+			"y": 497
+		},
+		"o_o_g_eyes": {
+			"file": "o_o_g_eyes.png",
+			"h": 182,
+			"w": 174,
+			"x": 2145,
+			"y": 610
+		},
+		"o_o_g_sourcil": {
+			"file": "o_o_g_sourcil.png",
+			"h": 94,
+			"w": 227,
+			"x": 2097,
+			"y": 538
+		},
+		"o_o_mouth": {
+			"file": "o_o_mouth.png",
+			"h": 149,
+			"w": 185,
+			"x": 2290,
+			"y": 796
+		},
+		"pull": {
+			"file": "pull.png",
+			"h": 1598,
+			"w": 842,
+			"x": 2119,
+			"y": 971
+		},
+		"skirt": {
+			"file": "skirt.png",
+			"h": 1262,
+			"w": 2022,
+			"x": 1274,
+			"y": 2299
+		},
+		"uuhghg_d_eye": {
+			"file": "uuhghg_d_eye.png",
+			"h": 103,
+			"w": 245,
+			"x": 2384,
+			"y": 620
+		},
+		"uuhghg_d_sourcil": {
+			"file": "uuhghg_d_sourcil.png",
+			"h": 90,
+			"w": 226,
+			"x": 2392,
+			"y": 536
+		},
+		"uuhghg_g_eye": {
+			"file": "uuhghg_g_eye.png",
+			"h": 89,
+			"w": 223,
+			"x": 2087,
+			"y": 628
+		},
+		"uuhghg_g_sourcil": {
+			"file": "uuhghg_g_sourcil.png",
+			"h": 85,
+			"w": 213,
+			"x": 2084,
+			"y": 540
+		},
+		"uuhghg_goutte": {
+			"file": "uuhghg_goutte.png",
+			"h": 102,
+			"w": 37,
+			"x": 2518,
+			"y": 739
+		},
+		"uuhghg_mouth": {
+			"file": "uuhghg_mouth.png",
+			"h": 96,
+			"w": 267,
+			"x": 2248,
+			"y": 844
+		},
+		"uuhghg_nose": {
+			"file": "uuhghg_nose.png",
+			"h": 45,
+			"w": 55,
+			"x": 2269,
+			"y": 802
+		}
+	},
+	"scale": 0.25,
+	"sets": [
+		"hihi",
+		"o_o",
+		"uuhghg"
+	]
+}

@@ -1,0 +1,34 @@
+[gd_resource type="Resource" script_class="MascotExpression" format=3]
+
+[ext_resource type="Texture2D" uid="uid://e4ww40fpafep" path="res://assets/mascots/AME/game/parts/indi_cil_bas_d.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bh0348k307cof" path="res://assets/mascots/AME/game/parts/indi_cil_bas_g.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dt6rd0mkf3r26" path="res://assets/mascots/AME/game/parts/indi_cil_haut_d.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://dijnc2vex6fs3" path="res://assets/mascots/AME/game/parts/indi_cil_haut_g.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://jplfc5l8mrng" path="res://assets/mascots/AME/game/parts/indi_mouth.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://cso1vf7b5wgc1" path="res://assets/mascots/AME/game/parts/indi_nose.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dxm5tsqkktcv3" path="res://assets/mascots/AME/game/parts/indi_pupille_d.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://bwv631rm3j32e" path="res://assets/mascots/AME/game/parts/indi_pupille_g.png" id="8"]
+[ext_resource type="Script" uid="uid://ddkdp3v18kh72" path="res://scripts/mascot_expression.gd" id="9"]
+[ext_resource type="Texture2D" uid="uid://blvryss24yx8w" path="res://assets/mascots/AME/game/parts/indi_sourcil_d.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://intkfw7bcqe4" path="res://assets/mascots/AME/game/parts/indi_sourcil_g.png" id="11"]
+
+[resource]
+script = ExtResource("9")
+id = &"indi"
+pupille_g_tex = ExtResource("8")
+pupille_d_tex = ExtResource("7")
+cil_g_tex = ExtResource("4")
+cil_d_tex = ExtResource("3")
+cil_bas_g_tex = ExtResource("2")
+cil_bas_d_tex = ExtResource("1")
+paupiere_g_tex = null
+paupiere_d_tex = null
+eyes_g_tex = null
+eyes_d_tex = null
+sourcil_g_tex = ExtResource("11")
+sourcil_d_tex = ExtResource("10")
+mouth_tex = ExtResource("5")
+nose_tex = ExtResource("6")
+accessory_tex = null
+blush_tex = null
+overlay_tex = null

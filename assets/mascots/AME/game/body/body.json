@@ -1,0 +1,453 @@
+{
+	"canvas_h": 6000,
+	"canvas_w": 4000,
+	"parts": {
+		"col": {
+			"file": "col.png",
+			"h": 342,
+			"w": 631,
+			"x": 1795,
+			"y": 1184
+		},
+		"crosses": {
+			"file": "crosses.png",
+			"h": 413,
+			"w": 882,
+			"x": 1662,
+			"y": 694
+		},
+		"d_cil_bas": {
+			"file": "d_cil_bas.png",
+			"h": 88,
+			"w": 216,
+			"x": 2165,
+			"y": 936
+		},
+		"d_cil_haut": {
+			"file": "d_cil_haut.png",
+			"h": 81,
+			"w": 269,
+			"x": 2147,
+			"y": 847
+		},
+		"d_ear": {
+			"file": "d_ear.png",
+			"h": 161,
+			"w": 128,
+			"x": 2330,
+			"y": 891
+		},
+		"d_hand": {
+			"file": "d_hand.png",
+			"h": 628,
+			"w": 428,
+			"x": 2934,
+			"y": 1144
+		},
+		"d_manche_bas": {
+			"file": "d_manche_bas.png",
+			"h": 966,
+			"w": 825,
+			"x": 2554,
+			"y": 1595
+		},
+		"d_manche_haut": {
+			"file": "d_manche_haut.png",
+			"h": 1131,
+			"w": 755,
+			"x": 2321,
+			"y": 1325
+		},
+		"d_pants": {
+			"file": "d_pants.png",
+			"h": 2638,
+			"w": 953,
+			"x": 2167,
+			"y": 2580
+		},
+		"d_pupille": {
+			"file": "d_pupille.png",
+			"h": 102,
+			"w": 124,
+			"x": 2178,
+			"y": 887
+		},
+		"d_shoe": {
+			"file": "d_shoe.png",
+			"h": 926,
+			"w": 939,
+			"x": 2411,
+			"y": 4999
+		},
+		"d_side_meche": {
+			"file": "d_side_meche.png",
+			"h": 660,
+			"w": 254,
+			"x": 2341,
+			"y": 628
+		},
+		"d_sourcil": {
+			"file": "d_sourcil.png",
+			"h": 113,
+			"w": 153,
+			"x": 2155,
+			"y": 795
+		},
+		"d_veste": {
+			"file": "d_veste.png",
+			"h": 1272,
+			"w": 605,
+			"x": 2184,
+			"y": 1357
+		},
+		"frange": {
+			"file": "frange.png",
+			"h": 555,
+			"w": 754,
+			"x": 1727,
+			"y": 420
+		},
+		"g_cil_bas": {
+			"file": "g_cil_bas.png",
+			"h": 84,
+			"w": 239,
+			"x": 1836,
+			"y": 951
+		},
+		"g_cil_haut": {
+			"file": "g_cil_haut.png",
+			"h": 83,
+			"w": 267,
+			"x": 1807,
+			"y": 858
+		},
+		"g_ear": {
+			"file": "g_ear.png",
+			"h": 148,
+			"w": 127,
+			"x": 1744,
+			"y": 925
+		},
+		"g_hand": {
+			"file": "g_hand.png",
+			"h": 300,
+			"w": 318,
+			"x": 1450,
+			"y": 2512
+		},
+		"g_manche_bas": {
+			"file": "g_manche_bas.png",
+			"h": 832,
+			"w": 785,
+			"x": 916,
+			"y": 1836
+		},
+		"g_manche_haut": {
+			"file": "g_manche_haut.png",
+			"h": 881,
+			"w": 855,
+			"x": 1045,
+			"y": 1307
+		},
+		"g_pants": {
+			"file": "g_pants.png",
+			"h": 2754,
+			"w": 1642,
+			"x": 1019,
+			"y": 2423
+		},
+		"g_pupille": {
+			"file": "g_pupille.png",
+			"h": 109,
+			"w": 139,
+			"x": 1848,
+			"y": 880
+		},
+		"g_shoe": {
+			"file": "g_shoe.png",
+			"h": 788,
+			"w": 1145,
+			"x": 530,
+			"y": 5040
+		},
+		"g_side_meche": {
+			"file": "g_side_meche.png",
+			"h": 576,
+			"w": 216,
+			"x": 1659,
+			"y": 733
+		},
+		"g_sourcil": {
+			"file": "g_sourcil.png",
+			"h": 105,
+			"w": 145,
+			"x": 1939,
+			"y": 826
+		},
+		"g_veste": {
+			"file": "g_veste.png",
+			"h": 1275,
+			"w": 609,
+			"x": 1551,
+			"y": 1356
+		},
+		"haha_d_cil_bas": {
+			"file": "haha_d_cil_bas.png",
+			"h": 47,
+			"w": 229,
+			"x": 2162,
+			"y": 951
+		},
+		"haha_d_cil_haut": {
+			"file": "haha_d_cil_haut.png",
+			"h": 82,
+			"w": 270,
+			"x": 2146,
+			"y": 864
+		},
+		"haha_d_pupille": {
+			"file": "haha_d_pupille.png",
+			"h": 53,
+			"w": 64,
+			"x": 2201,
+			"y": 913
+		},
+		"haha_d_sourcil": {
+			"file": "haha_d_sourcil.png",
+			"h": 78,
+			"w": 180,
+			"x": 2149,
+			"y": 811
+		},
+		"haha_g_cil_bas": {
+			"file": "haha_g_cil_bas.png",
+			"h": 41,
+			"w": 242,
+			"x": 1829,
+			"y": 964
+		},
+		"haha_g_cil_haut": {
+			"file": "haha_g_cil_haut.png",
+			"h": 75,
+			"w": 266,
+			"x": 1807,
+			"y": 891
+		},
+		"haha_g_pupille": {
+			"file": "haha_g_pupille.png",
+			"h": 59,
+			"w": 73,
+			"x": 1928,
+			"y": 918
+		},
+		"haha_g_sourcil": {
+			"file": "haha_g_sourcil.png",
+			"h": 74,
+			"w": 167,
+			"x": 1907,
+			"y": 850
+		},
+		"haha_mouth": {
+			"file": "haha_mouth.png",
+			"h": 157,
+			"w": 407,
+			"x": 1915,
+			"y": 1076
+		},
+		"haha_nose": {
+			"file": "haha_nose.png",
+			"h": 35,
+			"w": 32,
+			"x": 2130,
+			"y": 1066
+		},
+		"head": {
+			"file": "head.png",
+			"h": 598,
+			"w": 617,
+			"x": 1791,
+			"y": 691
+		},
+		"head_hair": {
+			"file": "head_hair.png",
+			"h": 968,
+			"w": 1135,
+			"x": 1486,
+			"y": 234
+		},
+		"heh_d_cil_bas": {
+			"file": "heh_d_cil_bas.png",
+			"h": 88,
+			"w": 216,
+			"x": 2165,
+			"y": 936
+		},
+		"heh_d_cil_haut": {
+			"file": "heh_d_cil_haut.png",
+			"h": 81,
+			"w": 269,
+			"x": 2147,
+			"y": 847
+		},
+		"heh_d_pupille": {
+			"file": "heh_d_pupille.png",
+			"h": 102,
+			"w": 124,
+			"x": 2192,
+			"y": 886
+		},
+		"heh_d_sourcil": {
+			"file": "heh_d_sourcil.png",
+			"h": 110,
+			"w": 164,
+			"x": 2152,
+			"y": 808
+		},
+		"heh_g_cil_bas": {
+			"file": "heh_g_cil_bas.png",
+			"h": 84,
+			"w": 239,
+			"x": 1836,
+			"y": 951
+		},
+		"heh_g_cil_haut": {
+			"file": "heh_g_cil_haut.png",
+			"h": 83,
+			"w": 267,
+			"x": 1807,
+			"y": 858
+		},
+		"heh_g_pupille": {
+			"file": "heh_g_pupille.png",
+			"h": 112,
+			"w": 140,
+			"x": 1887,
+			"y": 888
+		},
+		"heh_g_sourcil": {
+			"file": "heh_g_sourcil.png",
+			"h": 98,
+			"w": 156,
+			"x": 1933,
+			"y": 826
+		},
+		"heh_mouth": {
+			"file": "heh_mouth.png",
+			"h": 120,
+			"w": 242,
+			"x": 1994,
+			"y": 1120
+		},
+		"heh_nose": {
+			"file": "heh_nose.png",
+			"h": 35,
+			"w": 32,
+			"x": 2130,
+			"y": 1066
+		},
+		"huh_d_cil_bas": {
+			"file": "huh_d_cil_bas.png",
+			"h": 88,
+			"w": 216,
+			"x": 2165,
+			"y": 967
+		},
+		"huh_d_cil_haut": {
+			"file": "huh_d_cil_haut.png",
+			"h": 81,
+			"w": 269,
+			"x": 2147,
+			"y": 847
+		},
+		"huh_d_pupille": {
+			"file": "huh_d_pupille.png",
+			"h": 69,
+			"w": 84,
+			"x": 2189,
+			"y": 921
+		},
+		"huh_d_sourcil": {
+			"file": "huh_d_sourcil.png",
+			"h": 74,
+			"w": 118,
+			"x": 2162,
+			"y": 789
+		},
+		"huh_g_cil_bas": {
+			"file": "huh_g_cil_bas.png",
+			"h": 84,
+			"w": 239,
+			"x": 1836,
+			"y": 982
+		},
+		"huh_g_cil_haut": {
+			"file": "huh_g_cil_haut.png",
+			"h": 83,
+			"w": 267,
+			"x": 1807,
+			"y": 858
+		},
+		"huh_g_pupille": {
+			"file": "huh_g_pupille.png",
+			"h": 73,
+			"w": 92,
+			"x": 1921,
+			"y": 933
+		},
+		"huh_g_sourcil": {
+			"file": "huh_g_sourcil.png",
+			"h": 56,
+			"w": 110,
+			"x": 1958,
+			"y": 813
+		},
+		"huh_mouth": {
+			"file": "huh_mouth.png",
+			"h": 134,
+			"w": 292,
+			"x": 1980,
+			"y": 1103
+		},
+		"huh_nose": {
+			"file": "huh_nose.png",
+			"h": 35,
+			"w": 32,
+			"x": 2130,
+			"y": 1066
+		},
+		"mouth": {
+			"file": "mouth.png",
+			"h": 67,
+			"w": 181,
+			"x": 2018,
+			"y": 1108
+		},
+		"neck": {
+			"file": "neck.png",
+			"h": 596,
+			"w": 483,
+			"x": 1894,
+			"y": 1016
+		},
+		"nose": {
+			"file": "nose.png",
+			"h": 35,
+			"w": 32,
+			"x": 2130,
+			"y": 1066
+		},
+		"pull": {
+			"file": "pull.png",
+			"h": 1279,
+			"w": 772,
+			"x": 1754,
+			"y": 1293
+		}
+	},
+	"scale": 0.25,
+	"sets": [
+		"haha",
+		"huh",
+		"heh"
+	]
+}
